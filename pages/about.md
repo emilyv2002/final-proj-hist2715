@@ -13,6 +13,26 @@ credits: true
 
 Welcome to the digital exhibit Textile Testimonies: Memory, Solidarity, and the Continuity of Arpilleras! The creation of this site serves as a final project for HIST 2715: A Global South: Chile, the Pacific, and the World, Cornell University. This digital exhibit was largely influenced by Chapter 1: The Texture of Memory and Chapter 4: Weaving My Story from Tapestries of Hope, Threads of Love (The Arpillera Movement in Chile) by Marjorie Agosín. In addition to Professor Marjorie Agosín’s writing, my thoughts surrounding the relationship between arpillera scholarship and arpilleristas were influenced by the testimonies of Violeta Morales and Anita Rojas (Tapestries of Hope, Threads of Love) as well as Arpilleras and the Vessels of Chile’s Resistance (Soledad Fátima Muñoz). The arpilleras within this digital exhibit are mainly from Aprilleras, Colección del Museum de la Memoria y Los Derechos Humanos, physically housed in Santiago, Chile. To view the materials, visit the Browse page. To read more, visit the About page. 
 
+## On the Organization of Digital Exhibit and Subject Tags 
+
+I divided my items into three categories, which I have organized into “Subject Tags” under the Subjects page. They include “Threading Injustice”, “Resistance Embroidery”, and “Arpilleras Today”. For each item, I assigned one of the three subject tags. Although most of the items are arpilleras directly taken from Aprilleras, Colección del Museum de la Memoria y Los Derechos Humanos, I included images or pictures taken from the in-person trip to Valparaíso. This approach was taken because I wanted to organize the different ways in which arpilleras both told stories and bared witness- to see the differing styles and political messages behind common themes. For instance, under the Arpilleras Today tag (which I hope to upload more), I wanted to include the ways that arpilleras might be engaged with through recent political struggles and how the tradition is used to understand the ways that collective memory of the dictatorship, and subsequent international attention and human rights campaigns, translates to Chilean solidarity with contemporary political movements and transnational solidarity against U.S. imperialism. In Arpilleras the Vessels of Chilean Resistance, Soledad Fatima Muñoz speaks on the ways in which arpilleras are inextricably linked to the economic violences of neoliberalism, implemented during the dictatorship, and the instances in which the art and language of arpilleras deconstructs capitalist and western hegemonic ideas. Through this, the tradition of arpilleras becomes integral to examining memory. Often, the study of memory is constructed through the experiences of secondary witnesses — those who look to primary actors of historical events to understand their meaning — which can risk leaving behind individuals with lived experiences and testimonies. This, of course, is not the case in all forms of memory work or engagements with collective memory, but by producing a secondary or rigid construction of living memory certain historical narratives sponsored through institutions, states, or even academia are prioritized. 
+
+Perhaps by looking at arpilleras through their relationship to themes of political memorywork may give us insight into frameworks for understanding the decisions and deliberate messages of each individual arpillerista. Although the work to de-anonymize the collection of arpilleras is an ongoing process through strides of oral history and testimony, I thought it would be interesting to delve deeper into how the arpilleras in each individual tag might relate to one another across the categories but also how they are distinct through their messaging. 
+
+Though this digital exhibit does not answer all (or perhaps most) of the questions deeply, I believe the discussions around historical memory, contending with violence and justice, and gendered frameworks of political organizing are deeply essential in the consideration of curation toward decolonial memory studies. 
+
+### Subject Tag- Threading Injustice 
+
+For this subject tag, I choose arpilleras that were made distinctly with the means to document the crimes of humanity and injustices carried out by the military regime under Pinochet. In the collection of Isabel Morel (in the book Aprilleras, Colección del Museum de la Memoria y Los Derechos Humanos), many of the arpilleras depict the brutal torture, execution, as well as psychological violence (of disappearances and detention) that were forcibly enacted on to families and victims themselves. These depictions were integral in disseminating the reality of the dictatorship to the wider international community, but they also serve as a reminder of the ways fear and oppression contributed to the human rights violation to be carried out and even allowable and the pain that many families and individuals were subjected to and permanently carry within themselves and through generations. 
+
+### Subject Tag- Resistance Embrodiery 
+
+In this subject tag, I choose arpilleras that depicted the ways families or individuals resisted political repression or produced alternative avenues for basic living essentials and community. I was most interested in how different forms of arpilleras might show different forms of organizing or labor (scenes that are woven include communal soup kitchens, caring for infants, hospital visits, and traditional song and dance) that was carried out in spite of the military regime’s social and political repression. But, also how it actively perserves memories of living through this time and a way to rethink history and break away from merely being considered a “memory” or passive tool to remember, going beyond stagnation and using these art forms in pursuit of memory with conscience and pathways for meaningful reconciliation- whether that means leaving behind the political and economic legacies of the dictatorship. 
+In addition to perseving these memories, arpillera workshops were similar acts of organizing themselves and I wanted to include workshops that many arpilleristas organized to share stories, learn, and teach one another. 
+
+### Subject Tag- Arpilleras Today 
+
+For this subject tag, I choose arpilleras that were on exhibit at the Parque Cultural de Valparaíso-Ex Cárcel. In addition to these arpilleras I hope to include more recent works, especially originating from the 2018 General Feminist Strike. But, for now, I used the photos I had taken during the short-term study abroad trip to Chile. The arpilleras and exhibit signage under this tag incorporates how arpilleras and the tradition of its creation, context, and embodiment are instilled and sustained today. 
 
 ## About CollectionBuilder-Sheets
 
@@ -30,23 +50,5 @@ This enables active collaboration to prototype collections with minimal set up.
 </button>
 {:.text-center}
 
-## Create your own Metadata
 
-To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
 
-[CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-primary target="_blank" rel="noopener"}
-{:.text-center}
-
-Alternatively, you can [download the template CSV]({{ '/assets/metadata-template.csv' | relative_url }}) and work on your local machine.
-We suggest editing your CSV using [LibreOffice](https://www.libreoffice.org/) Calc, [OpenRefine](https://openrefine.org/), or Google Sheets (and do not suggest using Excel, since Excel's CSV output is not correctly formatted).
-
-Describe your items in your copy of the template, following the [Metadata Guidelines]({{ '/metadata.html' | relative_url }}). 
-
-Once you have items added you can test your metadata by clicking the "Change the Metadata" button above.
-
-## Learn More
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
