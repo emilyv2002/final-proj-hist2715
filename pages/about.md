@@ -46,7 +46,7 @@ Agosín, Marjorie. Tapestries of hope, threads of Love: The arpillera movement 
 
 Digital Collection and Exhibition: Arte, Mujer, Y Memoria: Arpilleras from Chile (Museum of Latin American Art, November 23, 2019 – September 6, 2020) “Arte, Mujer y Memoria: Online Exhibition - MOLAA: Museum of Latin American Art.” MOLAA. Accessed May 11, 2025. https://molaa.org/arpilleras-online. 
 
-Castillo, Oscar, and Paloma Ruiz. “Forging Memory.” La Faena: Arpillera Workshop | Forging Memory. Accessed May 11, 2025. https://forgingmemory.org/narrative/la-faena-arpillera workshop#:~:text=Arpilleristas%20often%20met%20in%20small,threat%20to%20General%20Pinochet’s%20government. 
+Digital Exhibit: Castillo, Oscar, and Paloma Ruiz. “Forging Memory.” La Faena: Arpillera Workshop" St. Lawrence University 
 
 Fátima Muñoz, Soledad. “Arpilleras the Vessels of Chile’s Resistance.” Textile Society of America Symposium Proceedings, October 15, 2020. https://doi.org/10.32873/unl.dc.tsasp.0091. 
 
