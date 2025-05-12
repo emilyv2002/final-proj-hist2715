@@ -34,21 +34,20 @@ In addition to perseving these memories, arpillera workshops were similar acts o
 
 For this subject tag, I choose arpilleras that were on exhibit at the Parque Cultural de Valparaíso-Ex Cárcel. In addition to these arpilleras I hope to include more recent works, especially originating from the 2018 General Feminist Strike. But, for now, I used the photos I had taken during the short-term study abroad trip to Chile. The arpilleras and exhibit signage under this tag incorporates how arpilleras and the tradition of its creation, context, and embodiment are instilled and sustained today. 
 
-## About CollectionBuilder-Sheets
+## On Memory and the Global South 
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+In Victor Jara’s popularized song El Derecho Vivir en Paz he speaks largely in the context of Viet Nam and the decolonial struggles of this era. Although written and released before the 1973 Coup, Victor Jara as well as the overall New Chilean Song movement also speak to frameworks of political art and memory. I connected with this, not explicitly to arpilleras, but to how arpilleras and its movement might build on Chilean identity and its relation to the world, particularly to a positionality of the Global South. This idea of solidarity, like various other meanings of freedom and justice, are not forwardly defined or agreed upon. But, it is nonetheless a core aspect of memory from and within the Global South. Though it would be impossible to compare arpilleras with other textiles used as a form of protest, in Tapestries of Hope, Threads of Love, Agosín makes a connection to similar threads in the agency of storytelling (Agosín 2007, 19). From war rugs of Afghanistan to Hmong textiles during the war in Viet Nam, the use of fabric and physical manifestations of violence and turmoil are both components of how the legacies of arpilleras and similar forms of textile contribute to a spoken history told by weaving. Though not singularly defined by just those in the South, these textiles, especially arpilleras, contribute to a historical narrative that intertwines Chile into the broader, international struggle for sovereignty and liberatory practices. Often these memories become entangled and through this process we might be able to ask how these violences, struggle for human dignity, or even the dictatorship did not simply happen to Chile but rather how this influences the narrative beyond Chile and its part of political memory in Latin America and reorientation toward agency in the Global South. The continuity of arpilleras and its tradition is essential in this memory. 
 
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
+## Additional Resources Section & Citations 
 
-<button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
-    <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
-        <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
-        <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52l-.094-.319zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115l.094-.319z"/>
-    </svg> 
-    Change the Metadata!
-</button>
-{:.text-center}
+This work draws from a rich scholarship on arpilleras and the arpillerista testimonies and political memorywork over the past decades. Research of the Chilean arpillera movement and its deep avenue of resistance under the Pinochet dictatorship has been intricately studied through the context of memory and art. It is because of this that the materials for this digital exhibit as well as resources on arpilleristas are able to be presented. I wanted to list some of the materials I looked at when I was first constructing the site: 
 
+Agosín, Marjorie. Tapestries of hope, threads of Love: The arpillera movement in Chile. Lanham, Md: Rowman & Littlefield Publishers, 2008. 
 
+Digital Collection and Exhibition: Arte, Mujer, Y Memoria: Arpilleras from Chile (Museum of Latin American Art, November 23, 2019 – September 6, 2020) 
+“Arte, Mujer y Memoria: Online Exhibition - MOLAA: Museum of Latin American Art.” MOLAA. Accessed May 11, 2025. https://molaa.org/arpilleras-online. 
+
+Castillo, Oscar, and Paloma Ruiz. “Forging Memory.” La Faena: Arpillera Workshop | Forging Memory. Accessed May 11, 2025. https://forgingmemory.org/narrative/la-faena-arpillera-workshop#:~:text=Arpilleristas%20often%20met%20in%20small,threat%20to%20General%20Pinochet’s%20government. 
+
+Fátima Muñoz, Soledad. “Arpilleras the Vessels of Chile’s Resistance.” Textile Society of America Symposium Proceedings, October 15, 2020. https://doi.org/10.32873/unl.dc.tsasp.0091. 
 
