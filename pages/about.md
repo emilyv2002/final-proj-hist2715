@@ -8,7 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/jumbotron.html objectid="/assets/img/banner.jpeg" %}
+## Description
+
+Welcome to the digital exhibit Textile Testimonies: Memory, Solidarity, and the Continuity of Arpilleras! The creation of this site serves as a final project for HIST 2715: A Global South: Chile, the Pacific, and the World, Cornell University. This digital exhibit was largely influenced by Chapter 1: The Texture of Memory and Chapter 4: Weaving My Story from Tapestries of Hope, Threads of Love (The Arpillera Movement in Chile) by Marjorie Agosín. In addition to Professor Marjorie Agosín’s writing, my thoughts surrounding the relationship between arpillera scholarship and arpilleristas were influenced by the testimonies of Violeta Morales and Anita Rojas (Tapestries of Hope, Threads of Love) as well as Arpilleras and the Vessels of Chile’s Resistance (Soledad Fátima Muñoz). The arpilleras within this digital exhibit are mainly from Aprilleras, Colección del Museum de la Memoria y Los Derechos Humanos, physically housed in Santiago, Chile. To view the materials, visit the Browse page. To read more, visit the About page. 
+
 
 ## About CollectionBuilder-Sheets
 
